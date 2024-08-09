@@ -1,0 +1,45 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(202, 213, 224, 0.756);
+   
+}
+h1{
+    margin-top: 100px;
+}
+
+#outlined-basic{
+    color: rgb(4, 132, 252);
+    border:  black;
+   
+}  
+h1{
+    color: rgb(4, 132, 252);
+    text-align: center;
+}
+#search_button{
+    height: 56px;
+    border: 2px solid  rgb(4, 132, 252);
+}
+p{
+    text-align: center;
+    
+    background-color: white;
+   
+    
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(4, 132, 252);
+}
+i{
+    font-size: xx-large;
+    margin: 22px;
+    color: rgb(4, 132, 252);
+
+}
+span{
+    color:rgb(4, 132, 252);
+    margin-left: 10px;
+}
